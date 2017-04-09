@@ -3,7 +3,6 @@
 import pickle
 import sys
 from sklearn.cross_validation import StratifiedShuffleSplit
-sys.path.append("../tools/")
 from feature_format import featureFormat, targetFeatureSplit
 
 def test_classifier(clf, dataset, feature_list, folds = 1000, rs = 42):
