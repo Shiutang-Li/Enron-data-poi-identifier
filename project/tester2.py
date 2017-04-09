@@ -1,15 +1,5 @@
 #!/usr/bin/pickle
 
-""" a basic script for importing student's POI identifier,
-    and checking the results that they get from it 
- 
-    requires that the algorithm, dataset, and features list
-    be written to my_classifier.pkl, my_dataset.pkl, and
-    my_feature_list.pkl, respectively
-
-    that process should happen at the end of poi_id.py
-"""
-
 import pickle
 import sys
 from sklearn.cross_validation import StratifiedShuffleSplit
