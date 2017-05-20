@@ -8,8 +8,8 @@ The goal of this project is to perform data cleaning and transformation methods,
 
 ## View report
 
-* html: Final_proj.html  
-* jupyter notebook: Final_proj.ipynb  
+* html: Final_proj.html  [Final_proj.html](https://github.com/Shiutang-Li/Enron-data-poi-identifier/blob/master/Final_proj.html)
+* jupyter notebook: [Final_proj.ipynb](https://github.com/Shiutang-Li/Enron-data-poi-identifier/blob/master/Final_proj.ipynb)
 **(Remember to include ml_map.png and train_test_validate.png when viewing the report)**  
 
 ## Dependencies
