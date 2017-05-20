@@ -13,7 +13,11 @@ jupyter notebook: Final_proj.ipynb
 (Remember to include ml_map.png and train_test_validate.png)  
 
 ## Dependencies
-* To view the project report, the reader could open either Final_proj.html, or Final_proj.ipynb. Remember to include both .png file to view complete reports.
+
+* Python 2.7
+* Numpy, Pandas, sklearn, pickle 
+
+## Runnning the codes
 
 * feature_format.py and tester.py are only utilities. If the reader would like to run Final_proj.ipynb, please include these files.
 
