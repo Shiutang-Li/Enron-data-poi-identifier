@@ -17,8 +17,7 @@ The goal of this project is to perform data cleaning and transformation methods,
 * Python 2.7
 * Numpy, Pandas, sklearn, pickle 
 
-## Run the codes
+## Run the code
 
-* feature_format.py and tester.py are only utilities. If the reader would like to run Final_proj.ipynb, please include these files.
-
-* final_project_dataset.pkl is the data set used in this project.
+* Download or git clone this repo, run all the cells from top to bottom in [Final_proj.ipynb](https://github.com/Shiutang-Li/Enron-data-poi-identifier/blob/master/Final_proj.ipynb). 
+* feature_format.py and tester.py are utilities, final_project_dataset.pkl is the data set used in this project. 
