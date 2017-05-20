@@ -8,16 +8,16 @@ The goal of this project is to perform data cleaning and transformation methods,
 
 ## View report
 
-html: Final_proj.html  
-jupyter notebook: Final_proj.ipynb  
-(Remember to include ml_map.png and train_test_validate.png)  
+* html: Final_proj.html  
+* jupyter notebook: Final_proj.ipynb  
+**(Remember to include ml_map.png and train_test_validate.png when viewing the report)**  
 
 ## Dependencies
 
 * Python 2.7
 * Numpy, Pandas, sklearn, pickle 
 
-## Runnning the codes
+## Run the codes
 
 * feature_format.py and tester.py are only utilities. If the reader would like to run Final_proj.ipynb, please include these files.
 
