@@ -6,6 +6,9 @@ In 2000, Enron was one of the largest companies in the US, but soon it went bank
 
 The goal of this project is to perform data cleaning and transformation methods, along with various machine learning algorithms, to build identifiers to predict who is a POI (person of interest) based on the Enron data set. POI means individuals who were indicted, reached a settlement or plea deal with the government, or testified in exchange for prosecution immunity. 
 
+|![](1.jpg) | ![](2.jpg)| 
+|:---:|:---:|
+
 ## View report
 
 * html: [Final_proj.html](https://github.com/Shiutang-Li/Enron-data-poi-identifier/blob/master/Final_proj.html)  
